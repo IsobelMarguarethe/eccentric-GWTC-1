@@ -1,4 +1,4 @@
 #### Key for reading corner plots
 
-* Blue: IMRPhenomD posterior probabilities 
-* Green: SEOBNRE-reweighted posterior probabilities
+* Turquoise: IMRPhenomD posterior probabilities 
+* Grey: SEOBNRE-reweighted posterior probabilities
